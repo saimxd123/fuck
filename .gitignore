@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Virtual envs
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Sensitive / runtime files
+*.log
+backups/
+sites.txt
+proxy.txt
+mshh.txt
+mst.txt
+mchk.txt
+mrz.txt
+msk.txt
+mpp.txt
+premium.txt
+keys.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Render / deployment
+.render-build-cache/

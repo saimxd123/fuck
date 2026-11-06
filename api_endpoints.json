@@ -1,0 +1,9 @@
+{
+  "endpoints": [
+    {"url": "http://62.169.23.129:8080/shopii", "key": null},
+    {"url": "http://5.83.136.102:8136/shopify", "key": "CHIRAG"},
+    {"url": "http://5.83.136.102:8137/shopify", "key": "CHIRAG"},
+    {"url": "https://check.yzio.app/shopify", "key": null}
+  ],
+  "active_idx": 0
+}
